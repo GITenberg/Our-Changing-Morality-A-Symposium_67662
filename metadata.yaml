@@ -1,5 +1,8 @@
 _repo: Our-Changing-Morality-A-Symposium_67662
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67662-h/images/cover.jpg
 creator:
   editor:
     agent_name: Kirchwey, Freda
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54382
     wikipedia: https://en.wikipedia.org/wiki/Freda_Kirchwey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67662#Our-Changing-Morality-A-Symposium
 gutenberg_issued: '2022-03-20'
 identifiers:
   gutenberg: '67662'
